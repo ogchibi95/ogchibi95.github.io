@@ -17,6 +17,18 @@
 
         <!-- Import required stylesheets -->
         <link rel="stylesheet" href="styles/portfolio.css">
+
+        <script type="text/javascript">
+            document.documentElement.addEventListener("load", function(){
+                document.getElementById("loader").style.display = "block";
+            });
+
+
+
+            window.addEventListener("load", function(){
+                document.getElementById("loader").style.display = "none";
+            });
+        </script>
     </head>
 
     <body onload="portfolio()">
