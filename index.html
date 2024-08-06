@@ -12,7 +12,6 @@
       <meta name="description" content="My own personal, project based portfolio, hosted whit love in Github Pages">
       <meta name="keywords" content="ogchibi95, chibi, jan, kristian, valgijainen, portfolio, github, pages">
       <meta name="author" content="Jan Kristian Valgijainen">
-      <meta name="application-name" content="ogchibi95">
 
       <!-- Import required stylesheets. -->
       <link rel="stylesheet" href="styles/portfolio.css">
@@ -20,8 +19,16 @@
       <!-- Import required scripts. -->
       <script src="scripts/portfolio.js"></script>
 
-      <link rel="manifest" href="manifest.json" />
+      <!-- Use some JS -->
+      <script type="text/javascript">
+          /** Import some stylesheet files. **/
+          import_style('styles/responsive.css');
+          import_style('styles/base.css');
 
+          /** Import some new script-files. **/
+          import_script('scripts/app.js');
+          
+      </script>
     </head>
     <body>
       <div class="container-full">
