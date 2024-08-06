@@ -1,2 +1,3 @@
-# ogchibi95.github.io
-My personal, project-based portfolio
+# My own personal, project-based portfolio
+
+---
