@@ -1,0 +1,10 @@
+/node_modules/
+/bower_components/
+/.idea/
+/dev/
+/docs/
+/vendor/
+/yarn/
+/.github/
+/.git/
+/.vscode/
