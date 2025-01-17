@@ -1,24 +1,26 @@
 
 
 
-
+/** All */
  * {
     padding: 0px 0px;
     margin: 0px auto;
  }
 
+ /** Selected anchors. */
 html, body, .container-full {
     display: block;
     float: left;
 }
 
-
+/** HTML */
  html {
     min-height: 100%;
     overflow-y: none;
     position: initial;
  }
 
+ /** Body */
  body {
     height: 100%;
     min-height: 756px;
@@ -26,6 +28,7 @@ html, body, .container-full {
 
  }
 
+/** Main container. */
  .container-full {
     width: 100%;
     min-width: 1024px;
