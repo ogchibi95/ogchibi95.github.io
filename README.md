@@ -1,2 +1,5 @@
-# ogchibi95.github.io
-My personal, project-based portfolio
+# MY OWN PERSONAL, PORTFOLIO-PROJECT (EN)
+
+---
+
+
