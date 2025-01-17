@@ -1,1 +1,33 @@
 
+
+
+
+ * {
+    padding: 0px 0px;
+    margin: 0px auto;
+ }
+
+html, body, .container-full {
+    display: block;
+    float: left;
+}
+
+
+ html {
+    min-height: 100%;
+    overflow-y: none;
+    position: initial;
+ }
+
+ body {
+    height: 100%;
+    min-height: 756px;
+    min-width: 100%;
+
+ }
+
+ .container-full {
+    width: 100%;
+    min-width: 1024px;
+    min-height: 100%;
+ }
