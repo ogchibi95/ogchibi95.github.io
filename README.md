@@ -1,2 +1,3 @@
-# ogchibi95.github.io
-My own personal, project-based portfolio, hosted whit love by Github Pages.
+# MY OWN PERSONAL PROJECT-BASED PORTFOLIO (ENG) [GITHUB PAGES]
+
+---
