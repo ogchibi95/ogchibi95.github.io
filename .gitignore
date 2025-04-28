@@ -8,7 +8,9 @@ _site/
 .jekyll-metadata
 
 # Additional Ruby/bundler ignore for when you run: bundle install
-/vendor
+/vendor/
+/node_modules/
+/bower_components/
 
 # Specific ignore for GitHub Pages
 # GitHub Pages will always use its own deployed version of pages-gem 
